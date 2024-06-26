@@ -1,2 +1,1 @@
-# hoodtest
- An Image uploader application using Laravel(backend) and Vue.js
+An Image uploader application using Laravel(backend) and Vue.js
